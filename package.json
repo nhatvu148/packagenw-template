@@ -1,0 +1,27 @@
+{
+  "name": "psj-documentation",
+  "version": "1.0.0",
+  "main": "index.html",
+  "window": {
+    "title": "Python Scripting in Jupiter",
+    "icon": "assets/img/icon.png",
+    "toolbar": true,
+    "width": 800,
+    "height": 600,
+    "min_width": 800,
+    "min_height": 600,
+    "resizable": false,
+    "position": "center"
+  },
+  "dependencies": {
+    "bytenode": "^1.1.7",
+    "express": "^4.17.1",
+    "logform": "^2.2.0",
+    "moment": "^2.29.1",
+    "papaparse": "^5.3.0",
+    "portfinder": "^1.0.28",
+    "replace-in-file": "^6.1.0",
+    "server-destroy": "^1.0.1",
+    "winston": "^3.3.3"
+  }
+}
